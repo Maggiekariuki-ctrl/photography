@@ -3,6 +3,7 @@ Project name: Photography.
 Description:  My website is about photography.Photography is basically the art and science of capturing images using a camera.Its about capturing the good and even sad moments.When someone views photos they are able to feel nostalgic about the moments
 
 Author:Margaret Kariuki
+Desgin:https://www.figma.com/design/wHkmDzso0p6BV7FEYzQ3Kk/Photography?m=auto&t=HGAbxa95pYZHjPfC-6
 
 
 
