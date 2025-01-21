@@ -4,6 +4,7 @@ Description:  My website is about photography.Photography is basically the art a
 
 Author:Margaret Kariuki
 Desgin:https://www.figma.com/design/wHkmDzso0p6BV7FEYzQ3Kk/Photography?m=auto&t=HGAbxa95pYZHjPfC-6
+https://github.com/Maggiekariuki-ctrl/photography.git
 
 
 
