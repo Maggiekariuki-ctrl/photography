@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 # Project name
 Top photography
+=======
+Project name: Photography.
+ 
+Description:  My website is about photography.Photography is basically the art and science of capturing images using a camera.Its about capturing the good and even sad moments.When someone views photos they are able to feel nostalgic about the moments
+
+Author:Margaret Kariuki
+Desgin:https://www.figma.com/design/wHkmDzso0p6BV7FEYzQ3Kk/Photography?m=auto&t=HGAbxa95pYZHjPfC-6
+https://github.com/Maggiekariuki-ctrl/photography.git
+>>>>>>> 1fdf9702167b7b359be86444c5122f93bc944cde
 
 ## Author name 
 Margaret Kariuki
