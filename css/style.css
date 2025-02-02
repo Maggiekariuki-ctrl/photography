@@ -2,12 +2,14 @@ header {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-weight: bolder;
   color: fuchsia;
+  padding: 0px;
+  margin: 0px;
 }
 p {
   font-style: italic;
 }
 strong {
-  background-color: whitesmoke;
+  background-color: bisque;
 }
 img {
   width: 400px;
