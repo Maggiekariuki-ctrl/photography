@@ -1,11 +1,11 @@
 
 # Project name
-Top photography
+TOP PHOTOGRAPHY
 
 ## Author name 
 Margaret Kariuki
 # Description
-Top photography is a photography website that created to capture moments.
+Top photography is a photography website that was created to capture moments.
  
  ## Setup instructions
  1.Clone this repository.
