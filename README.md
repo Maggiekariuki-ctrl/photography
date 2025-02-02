@@ -24,6 +24,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
+## Design
+https://www.figma.com/design/wHkmDzso0p6BV7FEYzQ3Kk/Photography?m=auto&t=KHEu2ddzjRutnjtT-6
+
+
 
 
 
